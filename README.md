@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # thesis_project
 the impact of out-of-stock best selling products on the sales of other products
 
@@ -9,3 +10,6 @@ the impact of out-of-stock best selling products on the sales of other products
 	- 2.3 Selection of X
 
 3. Regression
+=======
+# StockOut_Analysis
+>>>>>>> origin/main
